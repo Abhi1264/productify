@@ -54,9 +54,8 @@ function RelatedProducts({ currentId }: { currentId: number }) {
 }
 
 // Product detail page component
-export default async function ProductDetail(props: { params: { id: string } }) {
-  const { params } = await props;
-  const { id } = params;
+export default async function ProductDetail({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
   // Find the product with the matching id
   const product = products.find((p) => p.id === Number(id));
 

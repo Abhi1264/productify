@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 99.99,
+    "image": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg",
+    "category": "Gadget",
+    "description": "Wireless headphones with noise-cancelling technology and long battery life. Comfortable to wear for long periods of time. Ideal for music, movies, and calls."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 149.99,
+    "image": "https://images.pexels.com/photos/51011/pexels-photo-51011.jpeg",
+    "category": "Wearable",
+    "description": "Smart watch with fitness tracking, heart rate monitoring, and sleep tracking. Sleek design for everyday wear. Perfect for tracking your health and activity."
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "price": 59.99,
+    "image": "https://images.pexels.com/photos/1706694/pexels-photo-1706694.jpeg",
+    "category": "Audio",
+    "description": "Bluetooth speaker with high-quality sound and long battery life. Compact and portable for on-the-go use. Great for music, movies, and calls."
+  },
+  {
+    "id": 4,
+    "name": "Fitness Tracker",
+    "price": 79.99,
+    "image": "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg",
+    "category": "Fitness",
+    "description": "Fitness tracker with heart rate monitoring, sleep tracking, and activity tracking. Lightweight and comfortable to wear all day. Helps you stay motivated and healthy."
+  },
+  {
+    "id": 5,
+    "name": "Portable Charger",
+    "price": 29.99,
+    "image": "https://images.pexels.com/photos/4812315/pexels-photo-4812315.jpeg",
+    "category": "Accessory",
+    "description": "Portable charger with fast charging and long battery life. Slim and easy to carry in your bag or pocket. Keeps your devices powered on the go."
+  },
+  {
+    "id": 6,
+    "name": "Smart Light Bulb",
+    "price": 19.99,
+    "image": "https://images.pexels.com/photos/22491144/pexels-photo-22491144.jpeg",
+    "category": "Gadget",
+    "description": "Smart light bulb with voice control and energy efficiency. Easy to install and control from your phone. Create the perfect ambiance in any room."
+  },
+  {
+    "id": 7,
+    "name": "Smartphone",
+    "price": 499.99,
+    "image": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg",
+    "category": "Gadget",
+    "description": "Smartphone with high-quality camera and long battery life. Fast performance for multitasking and gaming. Stay connected and productive anywhere."
+  },
+  {
+    "id": 8,
+    "name": "Smart TV",
+    "price": 1999.99,
+    "image": "https://images.pexels.com/photos/1444416/pexels-photo-1444416.jpeg",
+    "category": "Gadget",
+    "description": "Smart TV with 4K resolution and streaming capabilities. Sleek design fits any living room. Enjoy your favorite shows and movies in stunning detail."
+  },
+  {
+    "id": 9,
+    "name": "Laptop",
+    "price": 1499.99,
+    "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg",
+    "category": "Gadget",
+    "description": "Laptop with high-quality display and long battery life. Lightweight and portable for work or travel. Perfect for productivity and entertainment."
+  },
+  {
+    "id": 10,
+    "name": "Smart Home Hub",
+    "price": 199.99,
+    "image": "https://images.pexels.com/photos/27662922/pexels-photo-27662922.jpeg",
+    "category": "Gadget",
+    "description": "Smart home hub with voice control and smart device integration. Simple setup for your connected home. Manage all your devices from one place."
+  },
+  {
+    "id": 11,
+    "name": "Tablet",
+    "price": 399.99,
+    "image": "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg",
+    "category": "Gadget",
+    "description": "Tablet with high-quality display and long battery life. Great for reading, streaming, and productivity. Lightweight and easy to carry anywhere."
+  },
+  {
+    "id": 12,
+    "name": "Shirt",
+    "price": 49.99,
+    "image": "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg",
+    "category": "Clothing",
+    "description": "Shirt with high-quality fabric and comfortable fit. Stylish design for any occasion. Durable and easy to care for."
+  },
+  {
+    "id": 13,
+    "name": "Shoes",
+    "price": 89.99,
+    "image": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg",
+    "category": "Clothing",
+    "description": "Shoes with high-quality fabric and supportive soles. Perfect for everyday wear or special occasions. Designed for comfort and style."
+  },
+  {
+    "id": 14,
+    "name": "Jeans",
+    "price": 59.99,
+    "image": "https://images.pexels.com/photos/1082528/pexels-photo-1082528.jpeg",
+    "category": "Clothing",
+    "description": "Jeans with high-quality fabric and modern fit. Versatile for casual or dressy looks. Comfortable for all-day wear."
+  },
+  {
+    "id": 15,
+    "name": "Hat",
+    "price": 29.99,
+    "image": "https://images.pexels.com/photos/744365/pexels-photo-744365.jpeg",
+    "category": "Clothing",
+    "description": "Hat with high-quality fabric and classic style. Lightweight and breathable for any season. Adds a stylish touch to your outfit."
+  },
+  {
+    "id": 16,
+    "name": "Gloves",
+    "price": 19.99,
+    "image": "https://images.pexels.com/photos/45057/pexels-photo-45057.jpeg",
+    "category": "Clothing",
+    "description": "Gloves with high-quality fabric and warm lining. Perfect for cold weather and outdoor activities. Comfortable and easy to wear all day."
+  }
+]
